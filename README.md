@@ -1,2 +1,2 @@
-# Java-Tasks-OOP-
+# Java-Tasks-OOP
 Practice solving tasks.
