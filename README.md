@@ -1,6 +1,6 @@
 # Java-Tasks-OOP
-Practice solving tasks.
-
+The course will cover Java fundamentals such as Java Core, collections, multithreading,<br>
+OOP, design patterns,basic algorithms and data structures.<br>
 
 <a href="https://github.com/LeeTovetz/Java-Tasks-OOP/tree/main/src/com/task001" >Task 001</a> -> Describe the "Sat" class. Provide it with properties and methods. Create several instances of objects of this class. Use these objects.;<br>
 Task 002 -> ;<br>
