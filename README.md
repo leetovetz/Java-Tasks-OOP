@@ -3,7 +3,7 @@ The course will cover Java fundamentals such as Java Core, collections, multithr
 OOP, design patterns,basic algorithms and data structures.<br>
 
 <a href="https://github.com/LeeTovetz/Java-Tasks-OOP/tree/main/src/com/task001" >Task 001</a> -> Describe the "Sat" class. Provide it with properties and methods. Create several instances of objects of this class. Use these objects;<br>
-Task 002 -> Describe the "Triangle" class. Take the lengths of the sides of the triangle as properties. Implement a method that will return the area of the triangle. Create several objects of this class and test them;<br>
+<a href="https://github.com/LeeTovetz/Java-Tasks-OOP/tree/main/src/com/task002" >Task 002</a> -> Describe the "Triangle" class. Take the lengths of the sides of the triangle as properties. Implement a method that will return the area of the triangle. Create several objects of this class and test them;<br>
 Task 003 -> ;<br>
 Task 004 -> ;<br>
 Task 005 -> ;<br>
