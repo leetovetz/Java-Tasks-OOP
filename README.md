@@ -4,7 +4,7 @@ OOP, design patterns,basic algorithms and data structures.<br>
 
 <a href="https://github.com/LeeTovetz/Java-Tasks-OOP/tree/main/src/com/task001" >Task 001</a> -> Describe the "Sat" class. Provide it with properties and methods. Create several instances of objects of this class. Use these objects;<br>
 <a href="https://github.com/LeeTovetz/Java-Tasks-OOP/tree/main/src/com/task002" >Task 002</a> -> Describe the "Triangle" class. Take the lengths of the sides of the triangle as properties. Implement a method that will return the area of the triangle. Create several objects of this class and test them;<br>
-Task 003 -> Describe the Phone class. Also describe the Network class (mobile operator's network). The phone must have a method of registration in the mobile operator's network. Also the phone must have a call method (number of another phone), which will search all the phone numbers registered in the network. If such a number is found, then make a call, if not - display a message that the dialed number is wrong;<br>
+<a href="https://github.com/LeeTovetz/Java-Tasks-OOP/tree/main/src/com/task003" >Task 003</a> -> Describe the Phone class. Also describe the Network class (mobile operator's network). The phone must have a method of registration in the mobile operator's network. Also the phone must have a call method (number of another phone), which will search all the phone numbers registered in the network. If such a number is found, then make a call, if not - display a message that the dialed number is wrong;<br>
 Task 004 -> ;<br>
 Task 005 -> ;<br>
 Task 006 -> ;<br>
