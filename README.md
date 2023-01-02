@@ -8,12 +8,17 @@ OOP, design patterns,basic algorithms and data structures.<br>
 
 <a href="https://github.com/LeeTovetz/Java-Tasks-OOP/tree/main/src/com/task003" >Task 003</a> -> Describe the Phone class. Also describe the Network class (mobile operator's network). The phone must have a method of registration in the mobile operator's network. Also the phone must have a call method (number of another phone), which will search all the phone numbers registered in the network. If such a number is found, then make a call, if not - display a message that the dialed number is wrong;<br>
 
-Task 004 -> Create an abstract Shape class that has two abstract methods getPerimetr() and double getArea().<br>
-Create a Point class that has two properties double x double y.<br>
-Create classes that describe at least 3 geometric shapes (they must be subclasses of Shape), and they must contain Point classes as properties.<br>
-Create a board class. The board is divided into 4 parts and each part may contain a shape. The board must have methods that place and remove a piece from the board. There should also be a method that outputs information about all the pieces on the board and their total area.<br>
+<a href="https://github.com/LeeTovetz/Java-Tasks-OOP/tree/main/src/com/task004" >Task 004</a> -> *Create an abstract Shape class that has two abstract methods getPerimetr() and double getArea().<br>
+*Create a Point class that has two properties double x double y.<br>
+*Create classes that describe at least 3 geometric shapes (they must be subclasses of Shape), and they must contain Point classes as properties.<br>
+*Create a board class. The board is divided into 4 parts and each part may contain a shape. The board must have methods that place and remove a piece from the board. There should also be a method that outputs information about all the pieces on the board and their total area.<br>
 
-Task 005 -> ;<br>
+Task 005 -> *Create a class describing a person (create a method that outputs information about the person).<br>
+*Create a class describing a person (create a method that outputs information about the person).<br>
+*Create a class for a group - which contains an array of 10 objects of the student class.<br> 
+*Implement methods of adding, deleting students and method of finding a student by surname. If you try to add 11 students, create your own exception and handle it.<br> 
+*Define the toString() method for the group so that it outputs a list of students in alphabetical order.<br>
+
 Task 006 -> ;<br>
 Task 007 -> ;<br>
 Task 008 -> ;<br>
@@ -64,13 +69,4 @@ Task 048 -> ;<br>
 Task 049 -> ;<br>
 Task 050 -> ;<br>
 ##
-
-
-
-
-
-
-
-
-
 
