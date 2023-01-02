@@ -13,7 +13,7 @@ OOP, design patterns,basic algorithms and data structures.<br>
 *Create classes that describe at least 3 geometric shapes (they must be subclasses of Shape), and they must contain Point classes as properties.<br>
 *Create a board class. The board is divided into 4 parts and each part may contain a shape. The board must have methods that place and remove a piece from the board. There should also be a method that outputs information about all the pieces on the board and their total area.<br>
 
-Task 005 -> *Create a class describing a person (create a method that outputs information about the person).<br>
+<a href="https://github.com/LeeTovetz/Java-Tasks-OOP/tree/main/src/com/task005" >Task 005</a> -> *Create a class describing a person (create a method that outputs information about the person).<br>
 *Create a class describing a person (create a method that outputs information about the person).<br>
 *Create a class for a group - which contains an array of 10 objects of the student class.<br> 
 *Implement methods of adding, deleting students and method of finding a student by surname. If you try to add 11 students, create your own exception and handle it.<br> 
