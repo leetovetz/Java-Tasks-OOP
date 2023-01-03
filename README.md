@@ -19,7 +19,7 @@ OOP, design patterns,basic algorithms and data structures.<br>
 *Implement methods of adding, deleting students and method of finding a student by surname. If you try to add 11 students, create your own exception and handle it.<br> 
 *Define the toString() method for the group so that it outputs a list of students in alphabetical order.<br>
 
-Task 006 -> *Improve the Group class by adding the ability to interactively add an object.<br>
+<a href="https://github.com/LeeTovetz/Java-Tasks-OOP/tree/main/src/com/task006" >Task 006</a> -> *Improve the Group class by adding the ability to interactively add an object.<br>
 *Implement the ability to sort the list of students by last name.<br>
 *Implement the ability to sort by parameter (last name, grade, etc.).<br>
 *Realize the Military Commissary interface which will return an array of students who are over 18 years old from a group;<br>
