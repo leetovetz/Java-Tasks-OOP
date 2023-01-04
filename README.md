@@ -19,12 +19,16 @@ OOP, design patterns,basic algorithms and data structures.<br>
 *Implement methods of adding, deleting students and method of finding a student by surname. If you try to add 11 students, create your own exception and handle it.<br> 
 *Define the toString() method for the group so that it outputs a list of students in alphabetical order.<br>
 
-Task 006 -> *Improve the Group class by adding the ability to interactively add an object.<br>
+<a href="https://github.com/LeeTovetz/Java-Tasks-OOP/tree/main/src/com/task006" >Task 006</a> -> *Improve the Group class by adding the ability to interactively add an object.<br>
 *Implement the ability to sort the list of students by last name.<br>
 *Implement the ability to sort by parameter (last name, grade, etc.).<br>
 *Realize the Military Commissary interface which will return an array of students who are over 18 years old from a group;<br>
 
-Task 007 -> ;<br>
+Task 007 ->  *Write a program that copies files (with a predefined extension - for example only doc) from the source directory to the destination directory.<br>
+*Write a program that takes two text files and returns one. The contents of this file must be the words that are in both the first and the second file.<br>
+*Improve the class that describes a group of students by adding the ability to save the group to a file.<br>
+*Implement the reverse process, i.e. read the group data from the file and use it to create an object of the group type.;<br>
+
 Task 008 -> ;<br>
 Task 009 -> ;<br>
 Task 010 -> ;<br>
