@@ -24,7 +24,7 @@ OOP, design patterns,basic algorithms and data structures.<br>
 *Implement the ability to sort by parameter (last name, grade, etc.).<br>
 *Realize the Military Commissary interface which will return an array of students who are over 18 years old from a group;<br>
 
-Task 007 ->  *Write a program that copies files (with a predefined extension - for example only doc) from the source directory to the destination directory.<br>
+<a href="https://github.com/LeeTovetz/Java-Tasks-OOP/tree/main/src/com/task007" >Task 007</a> ->  *Write a program that copies files (with a predefined extension - for example only doc) from the source directory to the destination directory.<br>
 *Write a program that takes two text files and returns one. The contents of this file must be the words that are in both the first and the second file.<br>
 *Improve the class that describes a group of students by adding the ability to save the group to a file.<br>
 *Implement the reverse process, i.e. read the group data from the file and use it to create an object of the group type.;<br>
