@@ -33,7 +33,8 @@ OOP, design patterns,basic algorithms and data structures.<br>
 
 <a href="https://github.com/LeeTovetz/Java-Tasks-OOP/tree/main/src/com/task009" >Task 009</a> -> Write code for multi-threaded calculation of the sum of elements of an array of integers. Compare counting speed with simple algorithm.;<br>
 
-Task 010 -> ;<br>
+<a href="https://github.com/LeeTovetz/Java-Tasks-OOP/tree/main/src/com/task010" >Task 010</a> -> Using standard serialization methods, create a mini database for working with groups of students (the ability to write and read the database from a file on request).;<br>
+
 ## 
 Task 011 -> ;<br>
 Task 012 -> ;<br>
