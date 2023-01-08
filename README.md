@@ -29,7 +29,8 @@ OOP, design patterns,basic algorithms and data structures.<br>
 *Improve the class that describes a group of students by adding the ability to save the group to a file.<br>
 *Implement the reverse process, i.e. read the group data from the file and use it to create an object of the group type.;<br>
 
-Task 008 -> ;<br>
+<a href="https://github.com/LeeTovetz/Java-Tasks-OOP/tree/main/src/com/task008" >Task 008</a> -> Create a hundred threads that will calculate the factorial of a number equal to the number of that thread and display the result on the screen.;<br>
+
 Task 009 -> ;<br>
 Task 010 -> ;<br>
 ## 
