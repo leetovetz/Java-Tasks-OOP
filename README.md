@@ -31,7 +31,8 @@ OOP, design patterns,basic algorithms and data structures.<br>
 
 <a href="https://github.com/LeeTovetz/Java-Tasks-OOP/tree/main/src/com/task008" >Task 008</a> -> Create a hundred threads that will calculate the factorial of a number equal to the number of that thread and display the result on the screen.;<br>
 
-Task 009 -> ;<br>
+<a href="https://github.com/LeeTovetz/Java-Tasks-OOP/tree/main/src/com/task009" >Task 009</a> -> Write code for multi-threaded calculation of the sum of elements of an array of integers. Compare counting speed with simple algorithm.;<br>
+
 Task 010 -> ;<br>
 ## 
 Task 011 -> ;<br>
