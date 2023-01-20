@@ -40,7 +40,7 @@ OOP, design patterns,basic algorithms and data structures.<br>
 
 <a href="https://github.com/LeeTovetz/Java-Tasks-OOP/tree/main/src/com/task012" >Task 012</a> -> Write a method that creates a list, puts 10 items in it, then removes the first two and the last one, and then displays the result.;<br>
 
-Task 013 -> ;<br>
+Task 013 -> 8,2;<br>
 Task 014 -> ;<br>
 Task 015 -> ;<br>
 Task 016 -> ;<br>
