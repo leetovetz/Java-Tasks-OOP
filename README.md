@@ -38,7 +38,8 @@ OOP, design patterns,basic algorithms and data structures.<br>
 ## 
 <a href="https://github.com/LeeTovetz/Java-Tasks-OOP/tree/main/src/com/task011" >Task 011</a> -> Create a container class - stack (a class into which you can add and remove objects from other classes, only to the top of the stack) where you can store objects of any type. There must be a method to add an element to the stack, get with removing an element from the stack, and just get an element from the vertex from the stack.;<br>
 
-Task 012 -> ;<br>
+<a href="https://github.com/LeeTovetz/Java-Tasks-OOP/tree/main/src/com/task012" >Task 012</a> -> Write a method that creates a list, puts 10 items in it, then removes the first two and the last one, and then displays the result.;<br>
+
 Task 013 -> ;<br>
 Task 014 -> ;<br>
 Task 015 -> ;<br>
