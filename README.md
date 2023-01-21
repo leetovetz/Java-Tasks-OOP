@@ -46,7 +46,8 @@ OOP, design patterns,basic algorithms and data structures.<br>
 
 <a href="https://github.com/LeeTovetz/Java-Tasks-OOP/tree/main/src/com/task015" >Task 015</a> -> Write a translator program that will translate the text in the file English.in, written in English, into Ukrainian according to the previously made dictionary. The result will be saved in the file Ukranian.out.;<br>
 
-Task 016 -> ;<br>
+<a href="https://github.com/LeeTovetz/Java-Tasks-OOP/tree/main/src/com/task016" >Task 016</a> -> Make a function for manually filling the dictionary and saving it to disk.;<br>
+
 Task 017 -> ;<br>
 Task 018 -> ;<br>
 Task 019 -> ;<br>
