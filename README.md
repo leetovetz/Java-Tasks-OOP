@@ -2,7 +2,7 @@
 The course will cover Java fundamentals such as Java Core, collections, multithreading,<br>
 OOP, design patterns,basic algorithms and data structures.<br>
 
-<a href="https://github.com/LeeTovetz/Java-Tasks-OOP/tree/main/src/com/task001" >Task 001</a> -> Describe the "Sat" class. Provide it with properties and methods. Create several instances of objects of this class. Use these objects;<br>
+<a href="https://github.com/LeeTovetz/Java-Tasks-OOP/tree/main/src/com/task001" >Task 001</a> -> Describe the "Cat" class. Provide it with properties and methods. Create several instances of objects of this class. Use these objects;<br>
 
 <a href="https://github.com/LeeTovetz/Java-Tasks-OOP/tree/main/src/com/task002" >Task 002</a> -> Describe the "Triangle" class. Take the lengths of the sides of the triangle as properties. Implement a method that will return the area of the triangle. Create several objects of this class and test them;<br>
 
@@ -48,7 +48,7 @@ OOP, design patterns,basic algorithms and data structures.<br>
 
 <a href="https://github.com/LeeTovetz/Java-Tasks-OOP/tree/main/src/com/task016" >Task 016</a> -> Make a function for manually filling the dictionary and saving it to disk.;<br>
 
-Task 017 -> ;<br>
+Task 017 -> 9.3;<br>
 Task 018 -> ;<br>
 Task 019 -> ;<br>
 Task 020 -> ;<br>
