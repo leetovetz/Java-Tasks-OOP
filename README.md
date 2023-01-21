@@ -44,7 +44,8 @@ OOP, design patterns,basic algorithms and data structures.<br>
 
 <a href="https://github.com/LeeTovetz/Java-Tasks-OOP/tree/main/src/com/task014" >Task 014</a> -> Sheldon, Leonard, Wolowitz, Koothrappalli, and Penny stand in line for a "double Coke. As soon as a person drinks such a Coke, he splits and both of them go to the end of the queue to have another drink. Write a program that will display the state of the queue depending on how many glasses of cola the machine has given out with the wonderful drink.;<br>
 
-Task 015 -> ;<br>
+<a href="https://github.com/LeeTovetz/Java-Tasks-OOP/tree/main/src/com/task015" >Task 015</a> -> Write a translator program that will translate the text in the file English.in, written in English, into Ukrainian according to the previously made dictionary. The result will be saved in the file Ukranian.out.;<br>
+
 Task 016 -> ;<br>
 Task 017 -> ;<br>
 Task 018 -> ;<br>
