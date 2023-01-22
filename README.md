@@ -54,8 +54,10 @@ OOP, design patterns,basic algorithms and data structures.<br>
 
 <a href="https://github.com/LeeTovetz/Java-Tasks-OOP/tree/main/src/com/task019" >Task 019</a> -> Write a server that will send the user information about the system and the request number.;<br>
 
-Task 020 -> ;<br>
+<a href="https://github.com/LeeTovetz/Java-Tasks-OOP/tree/main/src/com/task020" >Task 020</a> -> Write a program that outputs to a file all the links that are contained in the html document that will be sent as a result of a query to an arbitrary URL.;<br>
+
 ## 
+
 Task 021 -> ;<br>
 Task 022 -> ;<br>
 Task 023 -> ;<br>
