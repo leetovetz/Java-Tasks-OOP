@@ -52,7 +52,8 @@ OOP, design patterns,basic algorithms and data structures.<br>
 
 <a href="https://github.com/LeeTovetz/Java-Tasks-OOP/tree/main/src/com/task018" >Task 018</a> -> Check the availability of sites specified in a separate file.;<br>
 
-Task 019 -> ;<br>
+<a href="https://github.com/LeeTovetz/Java-Tasks-OOP/tree/main/src/com/task019" >Task 019</a> -> Write a server that will send the user information about the system and the request number.;<br>
+
 Task 020 -> ;<br>
 ## 
 Task 021 -> ;<br>
