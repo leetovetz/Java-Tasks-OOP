@@ -58,7 +58,7 @@ OOP, design patterns,basic algorithms and data structures.<br>
 
 ## 
 
-Task 021 -> ;<br>
+Task 021 -> pro 1.1;<br>
 Task 022 -> ;<br>
 Task 023 -> ;<br>
 Task 024 -> ;<br>
