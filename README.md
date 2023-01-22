@@ -49,7 +49,9 @@ OOP, design patterns,basic algorithms and data structures.<br>
 <a href="https://github.com/LeeTovetz/Java-Tasks-OOP/tree/main/src/com/task016" >Task 016</a> -> Make a function for manually filling the dictionary and saving it to disk.;<br>
 
 <a href="https://github.com/LeeTovetz/Java-Tasks-OOP/tree/main/src/com/task017" >Task 017</a> -> Solve the problem of counting repeating elements in an array using HashMap;<br>
-Task 018 -> ;<br>
+
+<a href="https://github.com/LeeTovetz/Java-Tasks-OOP/tree/main/src/com/task018" >Task 018</a> -> Check the availability of sites specified in a separate file.;<br>
+
 Task 019 -> ;<br>
 Task 020 -> ;<br>
 ## 
